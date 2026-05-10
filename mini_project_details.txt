@@ -1,0 +1,13 @@
+# mini project
+# Your task is to use NumPy, Pandas, and Matplotlib to analyze this data and generate meaningful insights.
+#
+# 🎯 Tasks
+# Load the dataset and understand its structure
+# Clean the data by handling missing or inconsistent values
+# Create a new column to categorize salary (Low, Medium, High)
+# Analyze the data to find:
+# Total number of males and females
+# Average salary based on gender
+# Average salary based on city
+# Visualize the results using charts (bar chart, histogram, etc.)
+# Save the processed data into a new file called "processed_people.csv"
