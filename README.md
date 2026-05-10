@@ -273,13 +273,13 @@ This repository helps in understanding:
 ## ▶️ Run Example
 
 ```bash
-python linear_regression.py
+python mini_project_seaborn_scikitlearn.py
 ```
 
 OR
 
 ```bash
-python clustering.py
+python test_matplotlib.py
 ```
 
 ---
