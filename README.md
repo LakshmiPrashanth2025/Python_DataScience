@@ -1,4 +1,4 @@
-# 📊 Python Data Science Projects
+# 📊 Python Data Science Project
 
 A collection of Python Data Science and Machine Learning projects demonstrating:
 
