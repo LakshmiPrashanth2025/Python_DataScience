@@ -115,7 +115,7 @@ python filename.py
 Example:
 
 ```bash
-python customer_analysis.py
+python miniProject.py
 ```
 
 ---
